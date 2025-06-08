@@ -6,7 +6,7 @@ layers:
   - W
   - F
   - P
-  - B
+  - G
   - J
   - L
   - U
@@ -18,8 +18,8 @@ layers:
   - {t: R, h: '$$mdi:apple-keyboard-control$$'}
   - {t: S, h: '$$mdi:apple-keyboard-option$$'}
   - {t: T, h: '$$mdi:apple-keyboard-command$$'}
-  - {t: G, h: '$$mdi:triangle$$'}
-  - {t: M, h: '$$mdi:triangle$$'}
+  - {t: D, h: '$$mdi:triangle$$'}
+  - {t: H, h: '$$mdi:triangle$$'}
   - {t: N, h: '$$mdi:apple-keyboard-command$$'}
   - {t: E, h: '$$mdi:apple-keyboard-option$$'}
   - {t: I, h: '$$mdi:apple-keyboard-control$$'}
@@ -29,10 +29,10 @@ layers:
   - Z
   - X
   - C
-  - D
   - V
+  - B
   - K
-  - H
+  - M
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: ;, s: ':'}
